@@ -1,0 +1,14 @@
+{
+  "name": "nelhage.com-money",
+  "description": "Pay me moneys!",
+  "version": "0.1.0",
+  "keywords": [],
+  "maintainers": [{"name": "Nelson Elhage", "email": "nelhage@nelhage.com"}],
+  "contributors":[],
+  "bugs": "mailto:nelhage@nelhage.com",
+  "licenses": [],
+  "dependencies": {
+    "express": ">= 3.0",
+    "stripe": ">= 1.0"
+  }
+}
